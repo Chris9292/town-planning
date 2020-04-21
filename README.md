@@ -1,9 +1,13 @@
 # town-planning
 
-### mapping project including GIS software as QGIS and several python libraries.
+#### mapping project used for university subject.
 
 features:
-- osmnx 
-- geopandas
-- matplotlib
-- postgis
+- QGIS software
+- integration with PostGis database
+- scripting with geospatial libraries such as (osmnx, geopandas)
+- visualizing with (folium, seaborn)
+
+result sample:
+
+![](maps/domiko.pdf)
