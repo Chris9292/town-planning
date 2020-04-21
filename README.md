@@ -11,4 +11,4 @@ features:
 result sample:
 
 <embed src = 'https://github.com/Chris9292/town-planning/blob/master/maps/DOMIKO.pdf'><embed>
-![Alt](maps/DOMIKO.pdf){width=100% height=400}
+![Alt](.maps/DOMIKO.pdf){width=100% height=400}
