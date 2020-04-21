@@ -10,4 +10,4 @@ features:
 
 result sample:
 
-![](https://github.com/Chris9292/town-planning/blob/master/maps/DOMIKO.pdf)
+<embed src = 'https://github.com/Chris9292/town-planning/blob/master/maps/DOMIKO.pdf'><embed>
