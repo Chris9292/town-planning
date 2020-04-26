@@ -1,0 +1,466 @@
+<Layout worldFileMap="{4c50129c-d336-47a3-8f5a-eb5ad0d01ebc}" printResolution="300" units="mm" name="LAYOUT2">
+ <Snapper snapToGrid="0" snapToGuides="1" snapToItems="1" tolerance="5"/>
+ <Grid resUnits="mm" resolution="1" offsetX="0" offsetY="0" offsetUnits="mm"/>
+ <PageCollection>
+  <symbol type="fill" name="" force_rhr="0" alpha="1" clip_to_extent="1">
+   <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+    <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="35,35,35,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option type="QString" name="name" value=""/>
+      <Option name="properties"/>
+      <Option type="QString" name="type" value="collection"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem opacity="1" groupUuid="" background="true" blendMode="0" uuid="{e90f1959-7e72-403d-87c0-24c6889e2f49}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{e90f1959-7e72-403d-87c0-24c6889e2f49}" position="0,0,mm" outlineWidthM="0.3,mm" size="297,420,mm" type="65638" positionLock="false" positionOnPage="0,0,mm" zValue="0" frameJoinStyle="miter" itemRotation="0" id="" frame="false">
+   <FrameColor green="0" blue="0" red="0" alpha="255"/>
+   <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option type="QString" name="name" value=""/>
+      <Option name="properties"/>
+      <Option type="QString" name="type" value="collection"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol type="fill" name="" force_rhr="0" alpha="1" clip_to_extent="1">
+    <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option type="QString" name="name" value=""/>
+       <Option name="properties"/>
+       <Option type="QString" name="type" value="collection"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{953a3d48-95d7-4b08-ab28-8b63d49a8aed}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{953a3d48-95d7-4b08-ab28-8b63d49a8aed}" position="3.78962,411.743,mm" halign="4" outlineWidthM="0.3,mm" size="15.0917,8.2572,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="3.78962,411.743,mm" zValue="24" frameJoinStyle="miter" labelText="Γ1" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,11,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{fce431aa-ff3f-469c-a5f7-b1809af57467}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{fce431aa-ff3f-469c-a5f7-b1809af57467}" position="3.78962,379.276,mm" halign="4" outlineWidthM="0.3,mm" size="15.0917,8.2572,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="3.78962,379.276,mm" zValue="23" frameJoinStyle="miter" labelText="Β2" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,11,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{6ce85d43-b103-47d2-b4e9-915684ce8f13}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{6ce85d43-b103-47d2-b4e9-915684ce8f13}" position="3.78962,385.866,mm" halign="4" outlineWidthM="0.3,mm" size="15.0917,8.2572,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="3.78962,385.866,mm" zValue="22" frameJoinStyle="miter" labelText="Β3" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,11,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{bb7ee5e7-6905-4c4a-9967-2a34d436caa9}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{bb7ee5e7-6905-4c4a-9967-2a34d436caa9}" position="197.616,368.236,mm" halign="4" outlineWidthM="0.3,mm" size="9.77216,4.48588,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="197.616,368.236,mm" zValue="21" frameJoinStyle="miter" labelText="Ε1" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,11,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{69d68560-8a54-4645-8f78-1afee9e04013}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{69d68560-8a54-4645-8f78-1afee9e04013}" position="197.616,335.052,mm" halign="4" outlineWidthM="0.3,mm" size="10.0103,5.39894,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="197.616,335.052,mm" zValue="20" frameJoinStyle="miter" labelText="Δ1" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,11,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{047c285a-32cf-4fb8-978e-0d88c01a94f7}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{047c285a-32cf-4fb8-978e-0d88c01a94f7}" position="6.56849,374.671,mm" halign="4" outlineWidthM="0.3,mm" size="9.53395,4.60498,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="6.56849,374.671,mm" zValue="10" frameJoinStyle="miter" labelText="Β1" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,11,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{f1e9d66a-9aa7-44c5-a2f1-54ea6a26a79a}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{f1e9d66a-9aa7-44c5-a2f1-54ea6a26a79a}" position="124.493,292.86,mm" halign="4" outlineWidthM="0.3,mm" size="47.9553,7.57688,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="124.493,292.86,mm" zValue="9" frameJoinStyle="miter" labelText="ΚΛΙΜΑΚΑ 1:25000" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,12,-1,5,50,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem resizeMode="0" opacity="1" groupUuid="" background="false" blendMode="0" pictureWidth="10.8185" uuid="{f8fd652d-1852-4e08-99e0-bad2bdbedacc}" visibility="1" svgFillColor="255,255,255,255" excludeFromExports="0" referencePoint="0" mapUuid="{4c50129c-d336-47a3-8f5a-eb5ad0d01ebc}" templateUuid="{f8fd652d-1852-4e08-99e0-bad2bdbedacc}" position="282.346,2.81102,mm" outlineWidthM="0.3,mm" size="11.3539,13.6561,mm" svgBorderWidth="0.2" northMode="0" file=":/images/north_arrows/layout_default_north_arrow.svg" type="65640" positionLock="false" positionOnPage="282.346,2.81102,mm" northOffset="0" zValue="8" anchorPoint="0" pictureHeight="13.6561" frameJoinStyle="miter" pictureRotation="0" itemRotation="0" id="North Arrow" svgBorderColor="0,0,0,255" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+ <LayoutItem maxBarWidth="150" unitType="meters" alignment="0" labelBarSpace="3" background="false" numMapUnitsPerScaleBarUnit="1" minBarWidth="50" boxContentSpace="1" unitLabel="m" lineCapStyle="square" numSegmentsLeft="0" segmentSizeMode="0" excludeFromExports="0" size="93.0821,12,mm" lineJoinStyle="miter" itemRotation="0" groupUuid="" blendMode="0" uuid="{79c38c75-f11d-4e3f-ae95-add4943bf7bd}" numSegments="4" visibility="1" zValue="7" numUnitsPerSegment="500" mapUuid="{4c50129c-d336-47a3-8f5a-eb5ad0d01ebc}" frameJoinStyle="miter" style="Single Box" labelVerticalPlacement="0" type="65646" position="105.956,301.852,mm" outlineWidth="0.3" id="" opacity="1" segmentMillimeters="19.994" frame="false" labelHorizontalPlacement="0" referencePoint="0" height="3" outlineWidthM="0.3,mm" positionOnPage="105.956,301.852,mm" templateUuid="{79c38c75-f11d-4e3f-ae95-add4943bf7bd}" positionLock="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <text-style previewBkgrdColor="255,255,255,255" fontFamily="Ubuntu" blendMode="0" fontSizeMapUnitScale="3x:0,0,0,0,0,0" multilineHeight="1" fontStrikeout="0" fontKerning="1" textOrientation="horizontal" fontLetterSpacing="0" textColor="0,0,0,255" fontWordSpacing="0" textOpacity="1" fontSizeUnit="Point" fontCapitals="0" fontUnderline="0" namedStyle="" fontSize="12" fontItalic="0" fontWeight="50">
+   <text-buffer bufferJoinStyle="128" bufferNoFill="1" bufferOpacity="1" bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferBlendMode="0" bufferSizeUnits="MM" bufferSize="1" bufferColor="255,255,255,255" bufferDraw="0"/>
+   <background shapeSizeType="0" shapeBorderWidth="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeOpacity="1" shapeOffsetUnit="MM" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSizeX="0" shapeBorderWidthUnit="MM" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeJoinStyle="64" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeRotation="0" shapeBlendMode="0" shapeSizeUnit="MM" shapeDraw="0" shapeSizeY="0" shapeRadiiX="0" shapeFillColor="255,255,255,255" shapeRadiiUnit="MM" shapeOffsetY="0" shapeType="0" shapeOffsetX="0" shapeSVGFile="" shapeRadiiY="0"/>
+   <shadow shadowOffsetGlobal="1" shadowOffsetUnit="MM" shadowRadius="1.5" shadowRadiusAlphaOnly="0" shadowBlendMode="6" shadowUnder="0" shadowOffsetAngle="135" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowColor="0,0,0,255" shadowDraw="0" shadowScale="100" shadowOpacity="0.7" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusUnit="MM" shadowOffsetDist="1"/>
+   <dd_properties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dd_properties>
+  </text-style>
+  <fillColor green="0" blue="0" red="0" alpha="255"/>
+  <fillColor2 green="255" blue="255" red="255" alpha="255"/>
+  <strokeColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="false" blendMode="0" uuid="{ac2065ac-45af-47e1-bf7a-9addc7556281}" visibility="1" excludeFromExports="0" referencePoint="0" templateUuid="{ac2065ac-45af-47e1-bf7a-9addc7556281}" position="101.242,280.534,mm" halign="4" outlineWidthM="0.3,mm" size="94.5158,8.46667,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="101.242,280.534,mm" zValue="6" frameJoinStyle="miter" labelText="ΧΑΡΤΗΣ ΧΡΗΣΕΩΝ ΓΗΣ" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,20,-1,5,57,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem resizeMode="1" opacity="1" groupUuid="" background="false" blendMode="0" pictureWidth="62.9944" uuid="{56581435-5f0b-4f56-94a2-0f86baf9721e}" visibility="1" svgFillColor="255,255,255,255" excludeFromExports="0" referencePoint="0" mapUuid="" templateUuid="{56581435-5f0b-4f56-94a2-0f86baf9721e}" position="-0.0231763,276.787,mm" outlineWidthM="0.3,mm" size="62.9944,45.3008,mm" svgBorderWidth="0.2" northMode="0" file="../../img/odhgos.png" type="65640" positionLock="false" positionOnPage="-0.0231763,276.787,mm" northOffset="0" zValue="5" anchorPoint="0" pictureHeight="45.3008" frameJoinStyle="miter" pictureRotation="0" itemRotation="0" id="" svgBorderColor="0,0,0,255" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+ <LayoutItem marginX="0" opacity="1" groupUuid="" background="true" blendMode="0" uuid="{d292cb69-11dc-4493-9b2e-0e1336b1fbaa}" visibility="1" excludeFromExports="0" referencePoint="4" templateUuid="{d292cb69-11dc-4493-9b2e-0e1336b1fbaa}" position="248.829,301.343,mm" halign="4" outlineWidthM="0.3,mm" size="96.3424,49.1116,mm" marginY="0" type="65641" positionLock="false" htmlState="0" positionOnPage="248.829,301.343,mm" zValue="4" frameJoinStyle="miter" labelText="ΑΠΘ - ΠΟΛΥΤΕΧΝΙΚΗ ΣΧΟΛΗ&#xa;ΤΜΗΜΑ ΜΗΧΑΝΙΚΩΝ ΧΩΡΟΤΑΞΙΑΣ &amp; ΑΝΑΠΤΥΞΗΣ&#xa;&#xa;ΣΕ-1 ΠΟΛΕΟΔΟΜΙΚΑ ΣΧΕΔΙΑ ΚΑΙ ΜΕΛΕΤΕΣ&#xa;ΟΜΑΔΑ 11&#xa;&#xa;ΚΑΓΚΕΛΙΔΗΣ ΧΡΗΣΤΟΣ&#xa;ΛΙΑΣΟΣ ΤΡΑΪΑΝΟΣ&#xa;ΚΟΛΕΥΡΗΣ ΛΑΜΠΡΟΣ&#xa;ΚΩΝΣΤΑΝΤΙΝΙΔΟΥ ΒΑΣΙΛΙΚΗ&#xa;ΠΑΠΑΪΩΑΝΝΟΥ ΓΕΩΡΓΙΟΣ&#xa;ΣΥΚΟΒΕΛΗΣ ΧΡΙΣΤΟΔΟΥΛΟΣ" itemRotation="0" id="" valign="128" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="238" blue="238" red="238" alpha="168"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="" description="Ubuntu,10,-1,5,50,0,0,0,0,0"/>
+  <FontColor green="0" blue="0" red="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem resizeMode="1" opacity="1" groupUuid="" background="false" blendMode="0" pictureWidth="40.9977" uuid="{d9b42c6c-181b-4a67-80ee-2887d233a54c}" visibility="1" svgFillColor="255,255,255,255" excludeFromExports="0" referencePoint="0" mapUuid="" templateUuid="{d9b42c6c-181b-4a67-80ee-2887d233a54c}" position="62.2284,276.787,mm" outlineWidthM="0.3,mm" size="40.9977,45.3008,mm" svgBorderWidth="0.2" northMode="0" file="../../img/xarths_odhgos_satellite.png" type="65640" positionLock="false" positionOnPage="62.2284,276.787,mm" northOffset="0" zValue="3" anchorPoint="0" pictureHeight="45.3008" frameJoinStyle="miter" pictureRotation="0" itemRotation="0" id="" svgBorderColor="0,0,0,255" frame="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+ <LayoutItem rasterBorderWidth="0" background="true" titleAlignment="4" columnSpace="4" splitLayer="0" lineSpacing="0" wmsLegendWidth="50" excludeFromExports="0" size="287.833,100.9,mm" itemRotation="0" groupUuid="" legendFilterByAtlas="0" blendMode="0" uuid="{a77c7b9e-92a1-45d0-9eb8-2cc004e6723d}" equalColumnWidth="0" columnCount="2" resizeToContents="1" fontColor="#000000" visibility="1" zValue="2" symbolAlignment="1" boxSpace="2" symbolHeight="4.5" rasterBorder="1" rasterBorderColor="0,0,0,255" frameJoinStyle="miter" symbolWidth="9.5" type="65642" position="4.58359,320.088,mm" title="ΥΠΟΜΝΗΜΑ" wmsLegendHeight="25" id="" opacity="1" frame="false" referencePoint="0" map_uuid="{4c50129c-d336-47a3-8f5a-eb5ad0d01ebc}" outlineWidthM="0.3,mm" wrapChar="" positionOnPage="4.58359,320.088,mm" templateUuid="{a77c7b9e-92a1-45d0-9eb8-2cc004e6723d}" positionLock="false">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <styles>
+   <style name="title" marginBottom="0.5" alignment="1">
+    <styleFont style="" description="Ubuntu,16,-1,5,57,0,0,0,0,0"/>
+   </style>
+   <style name="group" alignment="1" marginTop="2">
+    <styleFont style="" description="Ubuntu,14,-1,5,57,0,0,0,0,0"/>
+   </style>
+   <style name="subgroup" alignment="1">
+    <styleFont style="" description="Ubuntu,12,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style name="symbol" alignment="1" marginTop="2">
+    <styleFont style="" description="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style name="symbolLabel" marginLeft="3" alignment="1" marginTop="2">
+    <styleFont style="" description="Ubuntu,11,-1,5,50,0,0,0,0,0"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties/>
+   <layer-tree-group name="ΔΙΟΙΚΗΤΙΚΑ ΟΡΙΑ" expanded="0" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer id="aoi_ed44d437_3899_4e19_819c_2a0d023d19ec" name="ΟΡΙΟ ΔΗΜΟΥ ΠΑΥΛΟΥ ΜΕΛΑ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;orio_pe&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="ΟΡΙΟ_ΟΙΚΙΣΤΙΚΟΥ_9a2aa367_48a9_4e20_8b15_6cbc7e9b9dcf" name="ΟΡΙΟ ΟΙΚΙΣΤΙΚΟΥ ΥΠΟΔΟΧΕΑ" expanded="1" source="../../shapefiles/xrhsewn_ghs/ΟΡΙΟ_ΟΙΚΙΣΤΙΚΟΥ.shp" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <layer-tree-group name="ΟΙΚΙΣΤΙΚΕΣ ΠΕΡΙΟΧΕΣ" expanded="0" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer id="Dissolved_21154331_f3a9_44a5_ae43_60a8e05432a2" name="ΟΙΚΙΣΤΙΚΗ ΠΕΡΙΟΧΗ" expanded="1" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;SXEDIO_POLHS&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="perioxh_epektashs_9a805acb_05ea_43d7_820d_ba7e6433f95e" name="ΟΙΚΙΣΤΙΚΟΣ ΥΠΟΔΟΧΕΑΣ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;perioxh_epektashs&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <layer-tree-group name="ΠΕΡΙΟΧΕΣ ΠΑΡΑΓΩΓΙΚΩΝ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΩΝ ΔΡΑΣΤΗΡΙΟΤΗΤΩΝ" expanded="0" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer id="biomhxania_742e672a_8693_4776_b99e_d9debe75c1b8" name="ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΑΡΚΟ ΤΥΠΟΥ Α" expanded="1" source="../../shapefiles/xrhsewn_ghs/biomhxania.shp|layername=biomhxania" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="epixeirimatiko_parko_c9ff6c27_1623_451e_ae99_fcfa205f3f68" name="ΕΠΙΧΕΙΡΗΜΑΤΙΚΟ ΠΑΡΚΟ ΠΕΡΙΒΑΛΛΟΝΤΙΚΟΥ ΧΑΡΑΚΤΗΡΑ ΚΑΙ ΠΡΑΣΙΝΗΣ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑΣ" expanded="1" source="../../shapefiles/xrhsewn_ghs/epixeirimatiko_parko.shp|layername=epixeirimatiko_parko" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="texnopoli_8be72286_0307_480b_95c2_8da411555bcb" name="ΤΕΧΝΟΠΟΛΗ" expanded="1" source="../../shapefiles/xrhsewn_ghs/texnopoli.shp|layername=texnopoli" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="mines_689df805_299b_4dd3_8aae_9aa41c0ef496" name="ΛΑΤΟΜΕΙΟ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΛΑΤΟΜΕΙΟ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="stathmos_epexergasias_lumatwn_3bbde4aa_e59c_4624_9133_f70778e61422" name="ΣΤΑΘΜΟΣ ΕΠΕΞΕΡΓΑΣΙΑΣ ΛΥΜΜΑΤΩΝ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;stathmos_epexergasias_lumatwn&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <layer-tree-group name="ΠΕΡΙΟΧΕΣ ΠΡΟΣΤΑΣΙΑΣ" expanded="0" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer id="ΑΝΑΔΑΣΩΤΕΑ_ΠΕΡΙΟΧΗ_92b0ca34_aa25_468a_a4dc_ae6f1b6289b8" name="ΑΝΑΔΑΣΩΤΕΑ ΠΕΡΙΟΧΗ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id' srid=2100 type=Polygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΑΝΑΔΑΣΩΤΕΑ ΠΕΡΙΟΧΗ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <layer-tree-group name="ΠΕΡΙΟΧΕΣ ΕΛΕΓΧΟΥ ΧΡΗΣΕΩΝ ΓΗΣ" expanded="1" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer id="oikistikos_upodoxeas_f0cd136a_d0f4_4dec_a7b5_779d69b72e24" name="ΠΕΡΙΟΧΗ ΟΙΚΙΣΤΙΚΗΣ ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ" expanded="1" source="../../shapefiles/xrhsewn_ghs/oikistikos_upodoxeas.shp|layername=oikistikos_upodoxeas" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="military_4c064030_8861_4240_be4f_6027a13b7cea" name="" expanded="1" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΑΝΑΒΑΘΜΙΣΗ ΑΝΕΚΜΕΤΑΛΛΕΥΤΩΝ ΣΤΡΑΤ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+      <property key="legend/node-order" value="1"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="ΑΣΤΙΚΟ_ΠΑΡΚΟ_98060a3b_d934_45bb_b888_3249e2a90585" name="ΑΣΤΙΚΟ ΠΑΡΚΟ" expanded="1" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiPolygon checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΑΣΤΙΚΟ ΠΑΡΚΟ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="prostasia_78baa6e6_c5ff_49b2_91a0_c134e534abd8" name="ΠΕΡΙΟΧΗ ΠΡΟΣΤΑΣΙΑΣ ΚΑΙ ΟΙΚΟΑΝΑΠΤΥΞΗΣ" expanded="1" source="../../shapefiles/xrhsewn_ghs/prostasia.shp|layername=prostasia" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <layer-tree-group name="ΥΠΟΔΟΜΕΣ ΥΓΕΙΑΣ - ΠΡΟΝΟΙΑΣ" expanded="0" checked="Qt::Checked">
+    <customproperties>
+     <property key="legend/title-style" value="group"/>
+    </customproperties>
+    <layer-tree-layer id="nosokomeia_c49fc771_f019_4db2_9387_61a2a97cc818" name="ΥΠΗΡΕΣΙΑ ΥΓΕΙΑΣ" expanded="1" source="../../shapefiles/xrhsewn_ghs/nosokomeia.shp|layername=nosokomeia" checked="Qt::Checked" providerKey="ogr">
+     <customproperties/>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <layer-tree-group name="ΔΙΚΤΥΑ - ΜΕΤΑΦΟΡΕΣ" expanded="0" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer id="network_19ce0799_de87_4d2e_927b_d6d85956d76e" name="ΟΔΙΚΟ ΔΙΚΤΥΟ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id' srid=2100 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;roads&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+      <property key="legend/title-style" value="hidden"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="staseis_metro_west_16571278_a331_4397_8ff2_906fb9bb4231" name="ΣΤΑΘΜΟΣ ΜΕΤΡΟ" expanded="0" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=Point checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΣΤΑΘΜΟΣ ΜΕΤΡΟ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+      <property key="legend/title-style" value="hidden"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="metro_line_west_2d829bd5_fb0e_4ab0_87ec_043fbe4f2387" name="ΔΙΚΤΥΟ ΜΕΤΡΟ" expanded="1" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=6m706s0 key='id_0' srid=2100 type=MultiLineString checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΔΙΚΤΥΟ ΜΕΤΡΟ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="expandedLegendNodes"/>
+      <property key="legend/title-style" value="hidden"/>
+     </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer id="New_scratch_layer_e14265e0_6bbc_468d_ad54_4e9c95414694" name="ΕΠΕΚΤΑΣΗ ΔΙΚΤΥΟΥ ΜΕΤΡΟ" expanded="1" source="dbname='GIS' host=localhost port=5432 sslmode=disable authcfg=9x3aj74 key='id' srid=2100 type=LineString checkPrimaryKeyUnicity='1' table=&quot;public&quot;.&quot;ΕΠΕΚΤΑΣΗ ΔΙΚΤΥΟΥ ΜΕΤΡΟ&quot; (geom) sql=" checked="Qt::Checked" providerKey="postgres">
+     <customproperties>
+      <property key="legend/title-style" value="hidden"/>
+     </customproperties>
+    </layer-tree-layer>
+   </layer-tree-group>
+   <custom-order enabled="0"/>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem opacity="1" groupUuid="" background="true" blendMode="0" mapRotation="0" uuid="{4c50129c-d336-47a3-8f5a-eb5ad0d01ebc}" visibility="1" excludeFromExports="0" referencePoint="0" followPresetName="" mapFlags="0" templateUuid="{4c50129c-d336-47a3-8f5a-eb5ad0d01ebc}" position="0.25,0.25,mm" outlineWidthM="0.5,mm" size="296.5,276.363,mm" keepLayerSet="false" type="65639" positionLock="false" positionOnPage="0.25,0.25,mm" zValue="1" labelMargin="0,mm" frameJoinStyle="miter" drawCanvasItems="true" followPreset="false" itemRotation="0" id="" frame="true">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option name="properties"/>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent xmin="407175.81544030125951394" xmax="414588.31544786196900532" ymax="4507476.02829878218472004" ymin="4500566.96062200888991356"/>
+  <crs>
+   <spatialrefsys>
+    <wkt>PROJCS["GGRS87 / Greek Grid",GEOGCS["GGRS87",DATUM["Greek_Geodetic_Reference_System_1987",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[-199.87,74.79,246.62,0,0,0,0],AUTHORITY["EPSG","6121"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4121"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",24],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","2100"]]</wkt>
+    <proj4>+proj=tmerc +lat_0=0 +lon_0=24 +k=0.9996 +x_0=500000 +y_0=0 +ellps=GRS80 +towgs84=-199.87,74.79,246.62,0,0,0,0 +units=m +no_defs</proj4>
+    <srsid>91</srsid>
+    <srid>2100</srid>
+    <authid>EPSG:2100</authid>
+    <description>GGRS87 / Greek Grid</description>
+    <projectionacronym>tmerc</projectionacronym>
+    <ellipsoidacronym>GRS80</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+  <labelBlockingItems/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="forceVector" value="1"/>
+  <property key="pdfAppendGeoreference" value="1"/>
+  <property key="pdfCreateGeoPdf" value="0"/>
+  <property key="pdfDisableRasterTiles" value="0"/>
+  <property key="pdfExportGeoPdfFeatures" value="0"/>
+  <property key="pdfExportThemes" value=""/>
+  <property key="pdfIncludeMetadata" value="1"/>
+  <property key="pdfOgcBestPracticeFormat" value="0"/>
+  <property key="pdfSimplify" value="0"/>
+  <property key="pdfTextFormat" value="0"/>
+ </customproperties>
+ <Atlas sortFeatures="0" enabled="0" coverageLayer="" hideCoverage="0" filterFeatures="0" pageNameExpression="" filenamePattern="'output_'||@atlas_featurenumber"/>
+</Layout>
